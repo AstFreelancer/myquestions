@@ -1,0 +1,1 @@
+DROP TABLE `#__myquestions`;DROP TABLE `#__myquestions_categories`;
